@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/houssston/searchCollaborations/static/css/main.f7fa544a.chunk.css",
+    "main.js": "/houssston/searchCollaborations/static/js/main.b67fe67e.chunk.js",
+    "main.js.map": "/houssston/searchCollaborations/static/js/main.b67fe67e.chunk.js.map",
+    "runtime-main.js": "/houssston/searchCollaborations/static/js/runtime-main.d8bcec2c.js",
+    "runtime-main.js.map": "/houssston/searchCollaborations/static/js/runtime-main.d8bcec2c.js.map",
+    "static/js/2.5b53cfa9.chunk.js": "/houssston/searchCollaborations/static/js/2.5b53cfa9.chunk.js",
+    "static/js/2.5b53cfa9.chunk.js.map": "/houssston/searchCollaborations/static/js/2.5b53cfa9.chunk.js.map",
+    "index.html": "/houssston/searchCollaborations/index.html",
+    "static/css/main.f7fa544a.chunk.css.map": "/houssston/searchCollaborations/static/css/main.f7fa544a.chunk.css.map",
+    "static/js/2.5b53cfa9.chunk.js.LICENSE.txt": "/houssston/searchCollaborations/static/js/2.5b53cfa9.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/houssston/searchCollaborations/static/media/RobotoCondensed-Regular.db6d9169.ttf",
+    "static/media/Home.module.css": "/houssston/searchCollaborations/static/media/back1.957fbe74.jpg",
+    "static/media/nophoto.55082d69.jpg": "/houssston/searchCollaborations/static/media/nophoto.55082d69.jpg",
+    "static/media/noposter.097b993a.jpg": "/houssston/searchCollaborations/static/media/noposter.097b993a.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d8bcec2c.js",
+    "static/js/2.5b53cfa9.chunk.js",
+    "static/css/main.f7fa544a.chunk.css",
+    "static/js/main.b67fe67e.chunk.js"
+  ]
+}
